@@ -1,8 +1,8 @@
 // Copyright AudioKit. All Rights Reserved. Revision History at http://github.com/AudioKit/AudioKit/
 
-#include "SoundpipeDSPBase.h"
 #include "ParameterRamper.h"
 #include "Soundpipe.h"
+#include "SoundpipeDSPBase.h"
 
 enum DripParameter : AUParameterAddress {
     DripParameterIntensity,
